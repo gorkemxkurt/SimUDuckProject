@@ -21,7 +21,7 @@ flyBehavior.fly();
 
     }
 
-    public void swimmingg() {
+    public void swim() {
 
     }
 
